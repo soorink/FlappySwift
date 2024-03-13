@@ -378,6 +378,7 @@
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YXHXABBUG5;
 				INFOPLIST_FILE = FlappyBird/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = inswave.whive.soorintest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -397,6 +398,7 @@
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = YXHXABBUG5;
 				INFOPLIST_FILE = FlappyBird/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = inswave.whive.soorintest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
